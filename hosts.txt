@@ -1,0 +1,37 @@
+# x0r's list
+127.0.0.1 ua2cdn.admixer.net
+127.0.0.1 inv-nets.admixer.net
+127.0.0.1 cdn.videoframe.online
+127.0.0.1 d.applvn.com
+127.0.0.1 hmma.baidu.com
+127.0.0.1 gdeua.hit.gemius.pl
+127.0.0.1 prod-a.applovin.com
+127.0.0.1 vk.com
+127.0.0.1 img.applovin.com
+127.0.0.1 applvn.com
+127.0.0.1 pasta.esfile.duapps.com
+127.0.0.1 rt.applvn.com
+127.0.0.1 franecki.net
+127.0.0.1 applovin.com
+127.0.0.1 a.applvn.com
+127.0.0.1 e.crashlytics.com
+127.0.0.1 rt.applovin.com
+127.0.0.1 wsp.marketgid.com
+127.0.0.1 www.favorit.com.ua
+127.0.0.1 res1.applovin.com
+127.0.0.1 assets.applovin.com
+127.0.0.1 pipki.r.worldssl.net
+127.0.0.1 mayert.link
+127.0.0.1 wac.a164.deltacdn.net
+127.0.0.1 tesla.r.acdnpro.com
+127.0.0.1 www.mxttrf.com
+127.0.0.1 adbetnet.advertserve.com
+127.0.0.1 adserv.adbetnet.com
+127.0.0.1 n3.cdn.adbetnet.com
+127.0.0.1 graph.facebook.com
+127.0.0.1 tracking-server-prod-1.zenmxapps.com
+127.0.0.1 z.cdn.adbetnet.com
+127.0.0.1 n19.cdn.braun634.com
+127.0.0.1 n3.cdn.braun634.com
+127.0.0.1 z.cdn.braun634.com
+
